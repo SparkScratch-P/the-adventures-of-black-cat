@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="541.4423061176906" height="361.44230611769063" viewBox="-0.7211530588453052 -0.7211530588453052 541.4423061176906 361.44230611769063">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_3" x2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_4" x2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.6666666865348816,0,0,1,30,0" x2="60" x1="30" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient><linearGradient id="grad_2-.7777777910232544,0,0,1,0,0" x2="80" x1="0" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient><linearGradient id="grad_3-0.6666666865348816,0,0,1,510,0" x2="480" x1="510" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient><linearGradient id="grad_4-1.7777777910232544,0,0,1,540,0" x2="460" x1="540" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="0"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.7745301718823612">
+    <path id="ID0.09193865256384015" fill="url(#grad_1-.6666666865348816,0,0,1,30,0)" stroke="none" d="M 30 0 L 60 0 L 60 360 L 30 360 L 30 0 Z " stroke-width="0.8498365933917525"/>
+    <path id="ID0.09193865256384015" fill="url(#grad_2-.7777777910232544,0,0,1,0,0)" stroke="none" d="M 0 0 L 80 0 L 80 360 L 0 360 L 0 0 Z " stroke-width="1.4423061176906105"/>
+  </g>
+  <g id="ID0.7745301718823612">
+    <path id="ID0.09193865256384015" fill="url(#grad_3-0.6666666865348816,0,0,1,510,0)" stroke="none" d="M 510 0 L 480 0 L 480 360 L 510 360 L 510 0 Z " stroke-width="0.8498365933917525"/>
+    <path id="ID0.09193865256384015" fill="url(#grad_4-1.7777777910232544,0,0,1,540,0)" stroke="none" d="M 540 0 L 460 0 L 460 360 L 540 360 L 540 0 Z " stroke-width="1.4423061176906105"/>
+  </g>
+</svg>

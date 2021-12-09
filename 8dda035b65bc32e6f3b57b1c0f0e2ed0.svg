@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="492" height="234.40786743164062" viewBox="-0.5 0.09212493896484375 492 234.40786743164062">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#525252" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,5,-132" y2="234" x2="0" x1="0" y1="0.5921" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#525252" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9501801528967917" fill="url(#grad_1-,0,0,1,5,-132)" stroke="none" stroke-linecap="round" d="M 271 1 C 297.441 -2.719 322.167 20.17 349 22 C 366.777 23.204 382.737 9.07 400 11 C 414.893 12.672 425.758 27.327 440 33 C 447.808 35.469 457.064 32.376 465 35 C 470.396 36.804 473.524 41.545 478 44 L 491 52 L 490 234 L 1 232 L 0 43 L 12 48 C 16.185 49.738 43.309 63.872 60 62 C 83.282 60.366 102.343 40.845 126 38 C 143.896 35.853 161.477 53.205 179 49 C 212.134 41.034 236.859 6.903 271 1 Z " stroke-width="1"/>
+</svg>
