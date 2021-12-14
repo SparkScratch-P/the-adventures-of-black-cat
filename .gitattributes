@@ -1,0 +1,4 @@
+*.js text eol=lf
+*.ts text eol=lf
+*.md linguist-detectable=true
+*.md linguist-documentation=false
